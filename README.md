@@ -17,4 +17,4 @@ O objetivo é implementar um sistema de **leilão**, permitindo o cadastro de it
    ```bash
    git clone https://github.com/Nicolas-Mfs/leilao.git
 
-llllllll
+Commit #3: Mensagem de sucesso/erro no cadastro
