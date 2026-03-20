@@ -19,3 +19,4 @@ O objetivo é implementar um sistema de **leilão**, permitindo o cadastro de it
 
 Commit #3: Mensagem de sucesso/erro no cadastro
 Commit #4: Listagem de itens funcionando
+Commit #5: botão editar implementado
