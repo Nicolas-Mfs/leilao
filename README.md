@@ -18,3 +18,4 @@ O objetivo é implementar um sistema de **leilão**, permitindo o cadastro de it
    git clone https://github.com/Nicolas-Mfs/leilao.git
 
 Commit #3: Mensagem de sucesso/erro no cadastro
+Commit #4: Listagem de itens funcionando
